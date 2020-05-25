@@ -7,3 +7,6 @@ Web-based utility to viewing, writing, and editing ADRs.
 - [ ] Add ADR editor
 - [ ] Add ADR creator
 - [ ] Improve theme
+- [ ] Add unit tests
+- [ ] Add contribution guidelines
+- [ ] Publish to `npm`
