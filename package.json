@@ -1,0 +1,30 @@
+{
+  "name": "adr-writer",
+  "version": "0.0.1",
+  "bin": "run.sh",
+  "dependencies": {
+    "next": "^9.4.2"
+  },
+  "devDependencies": {
+    "@chakra-ui/core": "^0.8.0",
+    "@emotion/core": "^10.0.28",
+    "@emotion/styled": "^10.0.27",
+    "emotion-theming": "^10.0.27",
+    "gray-matter": "^4.0.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-icons": "^3.10.0",
+    "react-markdown": "^4.3.1",
+    "remark": "^12.0.0",
+    "remark-html": "^11.0.2",
+    "swr": "^0.2.2",
+    "glob": "^7.1.6"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start",
+    "build": "next build",
+    "export": "next build && next export",
+    "prepack": "rm -rf .next && next build"
+  }
+}
