@@ -16,7 +16,7 @@
     "react-icons": "^3.10.0",
     "react-markdown": "^4.3.1",
     "remark": "^12.0.0",
-    "remark-html": "^11.0.2",
+    "remark-html": "^13.0.2",
     "swr": "^0.2.2",
     "glob": "^7.1.6"
   },
