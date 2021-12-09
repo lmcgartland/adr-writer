@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "bin": "run.sh",
   "dependencies": {
-    "next": "^9.4.2"
+    "next": "^11.1.3"
   },
   "devDependencies": {
     "@chakra-ui/core": "^0.8.0",
